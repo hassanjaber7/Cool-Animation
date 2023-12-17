@@ -1,4 +1,3 @@
-%Hassan Jaber 330214
 % Create a figure with 3D axes
 figure;
 ax = axes('XLim', [-5 5], 'YLim', [-5 5], 'ZLim', [-5 5]);
